@@ -1,0 +1,27 @@
+{
+  "name": "deschampsbots",
+  "version": "1.0.0",
+  "description": "Projeto para automatizar a criação de Vídeos. Segue tutorial do  canal Felipe Deschamps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koalapvh13/DeschampsBots.git"
+  },
+  "keywords": [
+    "bots",
+    "youtube",
+    "deschamps"
+  ],
+  "author": "Matheus Dias Vieira",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Koalapvh13/DeschampsBots/issues"
+  },
+  "homepage": "https://github.com/Koalapvh13/DeschampsBots#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.9"
+  }
+}
